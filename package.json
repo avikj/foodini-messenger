@@ -1,0 +1,20 @@
+{
+  "name": "foodini",
+  "version": "1.0.0",
+  "description": "Recipes from images, over facebook messenger",
+  "main": "index.js",
+  "dependencies": {
+    "facebook-chat-api": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "messenger",
+    "food",
+    "recipe"
+  ],
+  "author": "",
+  "license": "MIT"
+}
