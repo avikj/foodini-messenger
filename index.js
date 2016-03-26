@@ -3,21 +3,6 @@ var login = require('facebook-chat-api'),
 var Clarifai = require('./clarifai_node.js');
 
 Clarifai.initAPI("sd6G4O9OIMIRBBPV069mz9DxvxdZLYalePN554_k","1oLEWf0LEC-o0g7bGjQ5fzSxiYyfaSEymTqoPeZH");
-var stdio = require('stdio');
-
-// support some command-line options
-var opts = stdio.getopt( {
-	'print-results' : { description: 'print results'},
-	'print-http' : { description: 'print HTTP requests and responses'},
-	'verbose' : { key : 'v', description: 'verbose output'}
-});
-var verbose = opts["verbose"];
-Clarifai.setVerbose( verbose );
-if( opts["print-http"] ) {
-	Clarifai.setLogHttp( true ) ;
-}
-
-if(verbose) console.log("using CLIENT_ID="+Clarifai._clientId+", CLIENT_SECRET="+Clarifai._clientSecret);
 
 
 var loginInfo = JSON.parse(fs.readFileSync('secretData.json', 'utf8'));
