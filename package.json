@@ -4,7 +4,8 @@
   "description": "Recipes from images, over facebook messenger",
   "main": "index.js",
   "dependencies": {
-    "facebook-chat-api": "^1.0.8"
+    "facebook-chat-api": "^1.0.8",
+    "google": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {

@@ -1,0 +1,676 @@
+Asparagus Broccoli
+Carrots
+Cauliflower Celery
+Corn
+Cucumbers 
+Lettuce 
+Mushrooms
+Onions
+Peppers
+Potatoes
+Spinach
+Squash
+Zucchini
+Tomatoes						
+Apples
+Avocados
+Bananas
+Berries
+Cherries
+Grapefruit
+Grapes
+Kiwis
+Lemons / Limes
+Melon
+Oranges
+Peaches
+Nectarines
+Pears
+Plums					
+Bagels
+Chip dip 
+English muffins 
+Eggs 
+Fake eggs 
+Fruit juice					
+Hummus 
+Ready-bake breads 
+Tofu
+Tortillas
+Apples
+Bananas
+Berries
+Grapes
+Lemons
+Lime
+Melons
+Nectarines
+Oranges
+Peaches
+Pears
+Plums
+Strawberries
+Watermelon
+Asparagus
+Broccoli
+Cabbage
+Carrots
+Cauliflower
+Celery
+Corn
+Garlic
+Lettuce
+Mushrooms
+Onions
+Peppers
+Potato
+Squash
+Sweet Potato
+Tomatoes
+Zucchini
+Cherries
+Mixed Fruit
+Peaches
+Pears
+Pineapples
+Asparagus
+Carrots
+Corn
+Greenbeans
+Peas
+Potatoes
+Tomatoes
+Bean
+Baked Beans
+Butter Beans
+Green Beans
+Kidney Beans
+Pinto Beans
+PorkNBeans
+String Beans
+Broccoli
+Carrots
+Corn
+Dinners
+French Fries
+Ice Cream
+Mixed Veg.
+Peas
+Pizza
+Tater Tots
+Beef
+Ground
+Hamburger
+Roast
+Steaks
+Boneless Breast
+Breast with Bone
+Legs
+Whole Chicken
+Wings
+Ham
+Roast Beef
+Smoked Turkey
+Turkey
+Bacon
+Chops
+Ham
+Roast
+Sausage
+Fish
+Scallops
+Shrimp
+
+Chicken
+Corned Beef
+Ham
+Salmon
+Tuna
+Vienna Sausage
+Celery Salt
+Cinnamon
+Garlic Powder
+Garlic Salt
+Ginger
+Nutmeg
+Onion Powder
+Oregano
+Paprika
+Parsley
+Pepper
+Salt
+BBQ Sauce
+Honey
+Horseradish
+Jelly
+Ketchup
+Mayonnaise
+Mustard
+Peanut Butter
+Salsa
+Soy Sauce
+Syrup
+Worcestershire
+Cooking Spray
+Olive Oil
+Vegetable Oil
+Blue Cheese
+French
+Italian
+Ranch
+Thousand Island
+Candy
+Cookies
+Crackers
+Nuts
+Popcorn
+Potato Chips
+Pretzels
+Raisins
+Chicken and Rice
+Chicken Noodle
+Cream of Broccoli
+Cream of Celery
+Cream of Chicken
+Cream of Mushroom
+Tomato
+Vegetable
+Vegetable Beef
+Vegetable Chicken
+Biscuits
+Buns
+Hamburger
+Hot Dog
+French
+Italian
+Rolls
+Wheat
+White
+Coffee
+Juice
+Milk
+Orange Juice
+Soft Drinks
+Sports Drinks
+Tea
+Water
+Butter
+Cheese
+Cottage Cheese
+Cream Cheese
+Creamer
+Eggs
+Margarine
+Milk
+Sliced Cheese
+Sour Cream
+Yogurt
+Spaghetti Sauce
+Tomato Paste
+Tomato Sauce
+Angel Hair Pasta
+Elbow Macaroni
+Lasagne Pasta
+Rotelle Pasta
+Shells Pasta
+Spaghetti Pasta
+Vemicelli Pasta
+Green Chili
+Refried Beans
+Salsa
+Spanish Rice
+Tacos
+Tortillias - Corn
+Tortillias - Flour
+Baking Powder
+Baking Soda
+Brown Sugar
+Brownie Mix
+Cake Mix
+Cereal
+Cocoa
+Cornstarch
+Flour
+Jello
+Oatmeal
+Pancake Mix
+Rice
+Sugar
+Vanilla Extract
+Apple Juice
+Applesauce
+Bananas
+Beef
+Carrots
+Chicken
+Dinners
+Greenbeans
+Mixed Veg.
+Peaches
+Pears
+Squash
+Sweet Potato
+Veal
+cream cheese
+scallops
+poppy seeds
+artificial sweetener
+carrots
+bean sprouts
+coffee
+okra
+brown sugar
+zinfandel wine
+pork
+cherries
+Worcestershire sauce
+andouille sausage
+cloves
+red chile powder
+hot sauce
+cranberries
+bard
+baking soda
+pecans
+succotash
+marshmallows
+curry leaves
+corned beef
+pumpkin seeds
+oregano
+anchovy paste
+thyme
+mustard seeds
+cocoa powder
+jack cheese
+cremini mushrooms
+kidney beans
+brazil nuts
+honey
+bay leaves
+cinnamon
+garlic powder
+chili powder
+barley sugar
+duck
+custard
+lemon Peel
+salt
+Tabasco sauce
+parsley
+cashew nut
+peanut butter
+french fries
+poultry seasoning
+artichokes
+tomato juice
+cauliflower
+bok choy
+barley
+oranges
+lemon juice
+white chocolate
+pepper
+amaretto
+English muffins
+paprika
+coconuts
+red beans
+raspberries
+mint
+sesame seeds
+mascarpone
+peaches
+lemon grass
+macaroni
+lentils
+crayfish
+jicama
+olive oil
+cannellini beans
+summer squash
+almond butter
+sazon
+mackerel
+snow peas
+mushrooms
+habanero chilies
+cayenne pepper
+basil
+sugar
+green onions
+tomatoes
+halibut
+tea
+adobo
+cream
+butter
+cooking wine
+borscht
+wine vinegar
+spearmint
+pesto
+granola
+five-spice powder
+rose water
+yogurt
+celery
+tonic water
+chives
+cider
+Havarti cheese
+prosciutto
+passion fruit
+bagels
+Cappuccino Latte
+gouda
+quail
+flour
+watermelons
+fennel seeds
+bass
+clams
+anchovies
+papayas
+fennel
+rice wine
+cornstarch
+red cabbage
+rhubarb
+tofu
+pico de gallo
+zest
+bean threads
+limes
+lemons
+tomato puree
+pumpkins
+blue cheese
+veal
+cornmeal
+grapes
+chili sauce
+pickles
+parsnips
+condensed milk
+asiago cheese
+lamb
+kiwi
+oatmeal
+mustard
+romaine lettuce
+cod
+geese
+vermouth
+acorn squash
+vanilla bean
+soy sauce
+pancetta
+cilantro
+caviar
+ancho chile peppers
+snap peas
+chickpeas
+balsamic vinegar
+chambord
+plantains
+bourbon
+chutney
+vegemite
+coriander
+water chestnuts
+pine nuts
+chard
+herring
+salmon
+Kahlua
+rosemary
+salsa
+pineapples
+marmalade
+beans
+baking powder
+breadcrumbs
+onion powder
+broccoli raab
+beef
+walnuts
+baguette
+bacon
+powdered sugar
+strawberries
+crabs
+tartar sauce
+Goji berry
+applesauce
+cottage cheese
+ricotta cheese
+gelatin
+cactus
+hoisin sauce
+pasta
+aioli
+dumpling
+aquavit
+black beans
+plums
+vinegar
+hash browns
+graham crackers
+focaccia
+sherry
+shrimp
+ale
+turtle
+spinach
+vanilla
+white beans
+sauerkraut
+apricots
+honeydew melons
+mesclun greens
+broccoli
+panko bread crumbs
+pea beans
+bean sauce
+ginger ale
+eggs
+tortillas
+Mandarin oranges
+red snapper
+trout
+avocados
+brown rice
+asparagus
+almond paste
+liver
+pheasants
+sushi
+milk
+haddock
+pomegranates
+horseradish
+prunes
+sweet peppers
+rabbits
+mussels
+Canadian bacon
+nectarines
+margarine
+fish sauce
+sausages
+guavas
+orange peels
+coconut oil
+figs
+unsweetened chocolate
+chai
+sweet chili sauce
+won ton skins
+bruschetta
+wine
+cumin
+chicken
+tomato sauce
+brunoise
+arugula
+turnips
+green beans
+wasabi
+kumquats
+squash
+plum tomatoes
+rice paper
+buckwheat
+chicken liver
+water
+half-and-half
+ginger
+canola oil
+tomato paste
+bananas
+hazelnuts
+maple syrup
+lima beans
+corn syrup
+croutons
+melons
+Irish cream liqueur
+sardines
+angelica
+bacon grease
+date sugar
+snapper
+octopus
+steak
+portabella mushrooms
+curry powder
+corn
+ham
+beer
+chaurice sausage
+shallots
+capers
+mozzarella
+dates
+dried leeks
+bouillon
+gorgonzola
+spaghetti squash
+sea cucumbers
+peas
+black-eyed peas
+alligator
+lobsters
+cider vinegar
+flax seed
+ice cream
+raisins
+pistachios
+cabbage
+blackberries
+cream of tartar
+allspice
+corn flour
+apple butter
+onions
+kale
+grouper
+catfish
+squid
+broth
+pinto beans
+sour cream
+rum
+sage
+pears
+ketchup
+red pepper flakes
+apples
+Marsala
+blueberries
+grits
+feta cheese
+grapefruits
+Parmesan cheese
+brandy
+shitakes
+brussels sprouts
+cantaloupes
+dill
+tuna
+almonds
+navy beans
+beets
+split peas
+garlic
+celery seeds
+cucumbers
+potatoes
+huckleberries
+soymilk
+coconut milk
+soybeans
+eggplants
+radishes
+jelly beans
+pig's feet
+monkfish
+sunflower seeds
+leeks
+rice
+cookies
+moo shu wrappers
+breadfruit
+truffles
+berries
+chile peppers
+Romano cheese
+couscous
+chestnuts
+olives
+tarragon
+almond extract
+rice vinegar
+flounder
+creme fraiche
+pink beans
+peanuts
+eel
+swordfish
+raw sugar
+turkeys
+prawns
+chicory
+buttermilk
+chocolate
+remoulade
+swiss cheese
+black olives
+chipotle peppers
+molasses
+lettuce
+mayonnaise
+wild rice
+apple pie spice
+colby cheese
+potato chips
+curry paste
+venison
+cheddar cheese
+hamburger
+heavy cream
+sweet potatoes
+provolone
+alfredo sauce
+maraschino cherries
+milk
+bread
+tomato
+lettuce 
+chicken
+poultry
+ham
+cheese
+dressing
+ranch
