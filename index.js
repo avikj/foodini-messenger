@@ -47,7 +47,7 @@ login(
                       items: []
                   
                   };
-                  api.sendMessage("Creating a new recipe for user "+event.senderName+". Send pictures of ingredients or just ingredient names to add them to the ingredient list, and send 'find recipe' ",event.threadID);
+                  api.sendMessage("Creating a new recipe for user "+event.senderName+". Send pictures of ingredients or just ingredient names to add them to the ingredient list, and send 'find recipe' to get your recipe.",event.threadID);
                   return;
               }
                 if(event.body.startsWith("remove")){
